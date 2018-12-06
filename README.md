@@ -1,2 +1,2 @@
 # amazon-fine-food-reviews
-The text data pf the reviews were vectorized using bag of words model and KNN was used to train the model. 
+The text data of the reviews were vectorized using BoW and tfidf techniques and different learning algorithms such as KNN, logistic regression, naive bayes, Support vector machine classifier has been applied 
